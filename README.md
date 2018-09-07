@@ -2,7 +2,7 @@
 
 To build the executable run the following
 
-gcc -o lb-gps lb-bu0836a-pwm.cpp -lstdc++
+gcc -o lb-pwm lb-bu0836a-pwm.cpp -lstdc++
 
 ## Usage ##
 ```
